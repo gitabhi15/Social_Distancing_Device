@@ -1,5 +1,4 @@
-—This is a simple Arduino-based device that helps enforce social distancing. It uses an ultrasonic sensor to measure the distance to the nearest person or object. If someone comes closer than 1 meter, the buzzer alerts you with a warning sound.
-—An LCD screen shows the real-time distance in meters. A push-button lets you toggle the device on and off without unplugging it.
+—This is a simple Arduino-based device that helps enforce social distancing. It uses an ultrasonic sensor to measure the distance to the nearest person or object. If someone comes closer than 1 meter, the buzzer alerts you with a warning sound. An LCD screen shows the real-time distance in meters. A push-button lets you toggle the device on and off without unplugging it.
 
 —Hardware used:
 
