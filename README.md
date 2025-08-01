@@ -9,5 +9,3 @@
 5. Push-button
 
 —This was built as a basic safety tool and a fun way to explore sensors, displays, and input handling on Arduino.
-
-—Let me know if you want installation steps, wiring diagrams, or GitHub formatting.
